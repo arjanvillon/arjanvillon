@@ -1,4 +1,4 @@
-<h1>Nice to see you here! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" /></h1>
+<h1>Nice to see you here! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="30" /></h1>
 
 <p>Welcome to my profile! <br /> I'm Arjan, Fullstack developer from the Philippines!</p>
 
@@ -24,3 +24,5 @@
 
 <h3>You can contact me through</h3>
 <p><a href="https://github.com/arjanvillon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arjan-heaven-villon-42b2651a1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/arjanlangit/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" /></a> </p>
+
+<img alt="counter" src="https://komarev.com/ghpvc/?username=arjanvillon&color=blue&style=flat-square" />
