@@ -1,6 +1,6 @@
 <h1>Nice to see you here! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="30" /></h1>
 
-![Metrics](https://metrics.lecoq.io/arjanvillon?template=classic&languages=1&achievements=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FManila)
+![Metrics](https://metrics.lecoq.io/arjanvillon?template=classic&languages=1&topics=1&achievements=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=icons&topics.sort=stars&topics.limit=15&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FManila)
 
 <p>
   <a href="https://www.linkedin.com/in/arjan-heaven-villon-42b2651a1" target="_blank">
