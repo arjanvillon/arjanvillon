@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomiclabs/hardhat</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces &amp; console.log.</div>
@@ -1238,7 +1238,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jan 2022, 01:10:17 (timezone Asia/Manila) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 30 Jan 2022, 02:09:07 (timezone Asia/Manila) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
