@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethereum/EIPs</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Ethereum Improvement Proposal repository</div>
@@ -1232,7 +1232,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Mar 2022, 12:09:11 (timezone Asia/Manila) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 13:05:44 (timezone Asia/Manila) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
