@@ -324,7 +324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bellegar/frp_lib</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</div>
@@ -1014,7 +1014,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.50m out of 47.8m repositories</span>
+                                    <span class="gh">ranked 2.43m out of 52m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -1267,7 +1267,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Sept 2023, 20:30:42 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 20:55:29 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
