@@ -325,7 +325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clark-labs-inc/clark-browser</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fully stealth chromium for AI agents. Powering Clark agent. https://www.clarkchat.com</div>
@@ -378,7 +378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shadcn-ui/ui</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.</div>
@@ -552,7 +552,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2026, 09:03:35 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jun 2026, 20:45:25 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
